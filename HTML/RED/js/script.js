@@ -20,7 +20,7 @@ $("#testimonial-carousel").owlCarousel({
     responsiveRefreshRate : 200,
     responsiveBaseWidth: window,
     pagination: true,
-    singleItem: true   
+    singleItem: true
 });
   
   
@@ -39,8 +39,6 @@ $("#block-slider").owlCarousel({
 
 
 //------------------------------------- End site slider------------------------------------------------//
-
-
 
 
 
